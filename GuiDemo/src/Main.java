@@ -1,4 +1,4 @@
-package GuiDemo;
+
 
 import javax.swing.*;
 import java.awt.*;
